@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    border: 5px solid chartreuse;
+    border-radius: 15px;
+    background-color: cyan;
+}
+.test_image_and_result{
+    background-color: gold;
+    border: 3px solid darkgoldenrod;
+    border-radius: 20px;
+}
+ol{
+    margin: 20px;
+}
